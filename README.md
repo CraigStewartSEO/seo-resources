@@ -4,7 +4,7 @@ A curated collection of tools, articles, and guides to help grow your online pre
 
 <ul>
   <li><a href="https://craig-stewart.com" target="_blank" rel="noopener">Craig Stewart - SEO & Content Strategy</a></li>
-  <li><a href="https://craig-stewart.com/seo-tips-for-small-businesses/" target="_blank" rel="noopener">Craig Stewart's SEO & Content Strategy tips for individuals and small business</a></li>
+  <li><a href="https://craig-stewart.com/seo-tips-for-small-businesses/" target="_blank" rel="noopener">Craig Stewart's SEO tips for individuals and small business</a></li>
   <li><a href="https://ahrefs.com/blog/seo-basics/" target="_blank" rel="noopener">Beginner's Guide to SEO (Ahrefs)</a></li>
   <li><a href="https://developers.google.com/search/docs/fundamentals/seo-starter-guide" target="_blank" rel="noopener">Google SEO Starter Guide</a></li>
   <li><a href="https://www.seoptimer.com" target="_blank" rel="noopener">Free SEO Audit Tool (SEOptimer)</a></li>
